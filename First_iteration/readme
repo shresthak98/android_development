@@ -1,2 +1,5 @@
-This folder contains all the code of the barcode and qrcode scanner.
-It contains the scanning part,saving into the database,last scanned date and time.
+This folder contains all the code of the barcode and qrcode scanner
+Files Description:
+1)DbHelper.java contains code for making of of database and all the functions used in database like insert,delete,update etc.
+2)TablesDb.java contains all tables in database.
+3)MainActivity.java and SecondActivity.java contains all the functionalities like scanning,current date and time etc.
