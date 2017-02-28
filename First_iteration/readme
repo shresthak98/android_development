@@ -1,1 +1,2 @@
 This folder contains all the code of the barcode and qrcode scanner.
+It contains the scanning part,saving into the database,last scanned date and time.
