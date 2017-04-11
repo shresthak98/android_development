@@ -1,3 +1,0 @@
-This folder contains all the code of event manager application.
-It contains the part of creating event, managing event, notifications about events and syncing list of events.
-MainActivity.java contains all the functionalities about event creation and management.
